@@ -1,0 +1,25 @@
+body {
+    position: relative;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    position: relative;
+    width: 650px;
+    height: 350px ;
+    margin: 0 auto;
+    padding:0;
+    border-radius: 20px ;
+}
